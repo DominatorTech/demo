@@ -3,9 +3,8 @@ class CarModel{
   final int? brand_id,model_id;
 
   CarModel({this.model_name, this.brand_id,this.model_id});
-}
-
-List<CarModel> modelData = [
+  
+List<CarModel> marutiModel = [
  new CarModel(
     model_name: "Alto800",
     model_id: 1,brand_id: 5,
@@ -63,6 +62,9 @@ List<CarModel> modelData = [
     model_name: "WagonR",
     model_id: 15,brand_id: 5,
   ),
+];
+
+List<CarModel> fordModel=[
   new CarModel(
     model_name: "Eco Sports",
     model_id: 1,brand_id: 1,
@@ -83,6 +85,8 @@ List<CarModel> modelData = [
     model_name: "Figo",
     model_id: 5,brand_id: 1,
   ),
+];
+List<CarModel> tataModel=[
    new CarModel(
     model_name: "Tiago",
     model_id: 1,brand_id: 2,
@@ -119,7 +123,9 @@ List<CarModel> modelData = [
     model_name: "Safari",
     model_id: 9,brand_id: 2,
   ),
-  new CarModel(
+];
+List<CarModel>mahindraModel=[
+   new CarModel(
     model_name: "Bolero",
     model_id: 1,brand_id: 3,
   ),
@@ -167,7 +173,10 @@ List<CarModel> modelData = [
     model_name: "TUV300",
     model_id: 12,brand_id: 3,
   ),
-   new CarModel(
+];
+
+List<CarModel>nissanModel=[
+  new CarModel(
     model_name: "Kicks",
     model_id: 1,brand_id: 4,
   ),
@@ -179,6 +188,9 @@ List<CarModel> modelData = [
     model_name: "Sunny",
     model_id: 3,brand_id: 4,
   ),
+];
+
+List<CarModel>hondaModel=[
   new CarModel(
     model_name: "city",
     model_id: 1,brand_id: 6,
@@ -195,7 +207,13 @@ List<CarModel> modelData = [
     model_name: "Jazz",
     model_id: 4,brand_id: 6,
   ),
-   new CarModel(
+  new CarModel(
+    model_name: "Civic",
+    model_id: 5,brand_id: 6,
+  ),
+];
+
+List<CarModel>volkwagenModel=[  new CarModel(
     model_name: "Polo",
     model_id: 1,brand_id: 7,
   ),
@@ -210,7 +228,9 @@ List<CarModel> modelData = [
   new CarModel(
     model_name: "T-Roc",
     model_id: 4,brand_id: 7,
-  ),
+  ),];
+
+List<CarModel>RenaultModel=[
   new CarModel(
     model_name: "Kwid",
     model_id: 1,brand_id: 8,
@@ -227,7 +247,10 @@ List<CarModel> modelData = [
     model_name: "Duster",
     model_id: 4,brand_id: 8,
   ),
-   new CarModel(
+];
+List<CarModel>toyataModel=[
+
+new CarModel(
     model_name: "Innova",
     model_id: 1,brand_id: 9,
   ),
@@ -250,6 +273,9 @@ List<CarModel> modelData = [
     model_name: "VellFire",
     model_id: 6,brand_id: 9,
   ),
+];
+
+List<CarModel>HyundaiModel=[
    new CarModel(
     model_name: "verna",
     model_id: 1,brand_id: 10,
@@ -297,7 +323,10 @@ List<CarModel> modelData = [
     model_name: "kona",
     model_id: 12,brand_id: 10,
   ),
-  new CarModel(
+];
+
+List<CarModel>audiModel=[
+   new CarModel(
     model_name: "Q2",
     model_id: 1,brand_id: 11,
   ),
@@ -325,7 +354,10 @@ List<CarModel> modelData = [
   ),  new CarModel(
     model_name: "e-tron",
     model_id: 9,brand_id: 11,
-  ),  new CarModel(
+  ),
+];
+
+List<CarModel>BMWModel=[ new CarModel(
     model_name: "X1",
     model_id: 1,brand_id: 12,
   ),  new CarModel(
@@ -390,7 +422,12 @@ List<CarModel> modelData = [
     model_name: "X8",
     model_id: 17,brand_id: 12,
   ),
-    new CarModel(
+
+];
+
+List<CarModel>Mercedes_BenzModel=[
+
+  new CarModel(
     model_name: "GLA",
     model_id: 1,brand_id: 13,
   ),
@@ -450,7 +487,10 @@ List<CarModel> modelData = [
     model_name: "EQB",
     model_id: 15,brand_id: 13,
   ),
-   new CarModel(
+];
+
+
+List<CarModel>ChevroletModel=[ new CarModel(
     model_name: "BEAT",
     model_id: 1,brand_id: 14,
   ),
@@ -477,8 +517,9 @@ List<CarModel> modelData = [
   new CarModel(
     model_name: "optra",
     model_id: 7,brand_id: 14,
-  ),
-  new CarModel(
+  ),];
+List<CarModel>DatsunModel=[
+   new CarModel(
     model_name: "redi-GO",
     model_id: 1,brand_id: 15,
   ),
@@ -490,7 +531,9 @@ List<CarModel> modelData = [
     model_name: "GO Plus",
     model_id: 3,brand_id: 15,
   ),
-   new CarModel(
+];
+List<CarModel>KiaModel=[
+    new CarModel(
     model_name: "Seltos",
     model_id: 1,brand_id: 16,
   ),
@@ -502,7 +545,9 @@ List<CarModel> modelData = [
     model_name: "Carnival",
     model_id: 3,brand_id: 16,
   ),
-    new CarModel(
+];
+
+List<CarModel>MgModel=[ new CarModel(
     model_name: "Hector",
     model_id: 1,brand_id: 17,
   ),
@@ -517,5 +562,5 @@ List<CarModel> modelData = [
   new CarModel(
     model_name: "ZS EV",
     model_id: 4,brand_id: 17,
-  ),
-];
+  ),];
+}
