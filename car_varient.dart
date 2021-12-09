@@ -2007,13 +2007,1012 @@ new CarVarient(
 ),
 
 ];
-
-
-
- 
- 
+List<CarVarient>kwidVarient=[
+  new CarVarient(
+    varient_name: "RXE",
+   varient_id:1,model_id: 1 ,brand_id: 8,
+),
+new CarVarient(
+    varient_name: "RXL",
+   varient_id:2,model_id: 1 ,brand_id: 8,
+),
+new CarVarient(
+    varient_name: "1.0 RXL",
+   varient_id:3,model_id: 1 ,brand_id: 8,
+),
+new CarVarient(
+    varient_name: "RXT",
+   varient_id:4,model_id: 1 ,brand_id: 8,
+),
+new CarVarient(
+    varient_name: "1.0 RXT Opt",
+   varient_id:5,model_id: 1 ,brand_id: 8,
+),
+new CarVarient(
+    varient_name: "1.0 RXL AMT",
+   varient_id:6,model_id: 1 ,brand_id: 8,
+),
+new CarVarient(
+    varient_name: "Climber 1.0 MT Opt",
+   varient_id:7,model_id: 1 ,brand_id: 8,
+),
+new CarVarient(
+    varient_name: "Climber 1.0 MT DT",
+   varient_id:8,model_id: 1 ,brand_id: 8,
+),
+new CarVarient(
+    varient_name: "1.0 RXT AMT Opt",
+   varient_id:9,model_id: 1 ,brand_id: 8,
+),
+new CarVarient(
   
-   
+    varient_name: "1.0 RXT AMT Opt",
+   varient_id:10,model_id: 1 ,brand_id: 8,
+),
+new CarVarient(
+    varient_name: "Climber 1.0 AMT Opt",
+   varient_id:11,model_id: 1 ,brand_id: 8,
+),
+new CarVarient(
+    varient_name: "Climber 1.0 AMT Opt DT",
+   varient_id:12,model_id: 1 ,brand_id: 8,
+),
 
+];
+List<CarVarient>KigerVarient=[
+ new CarVarient(
+    varient_name: "RXE",
+   varient_id:1,model_id: 2 ,brand_id: 8,
+),
+new CarVarient(
+    varient_name: "RXL",
+   varient_id:2,model_id: 2 ,brand_id: 8,
+),
+new CarVarient(
+    varient_name: "RXL AMT",
+   varient_id:3,model_id: 2 ,brand_id: 8,
+),
+new CarVarient(
+    varient_name: "RXT DT",
+   varient_id:4,model_id: 2 ,brand_id: 8,
+),
+new CarVarient(
+    varient_name: "RXT Opt",
+   varient_id:5,model_id: 2 ,brand_id: 8,
+),
+new CarVarient(
+    varient_name: "RXT AMT",
+   varient_id:6,model_id: 2 ,brand_id: 8,
+),
+new CarVarient(
+    varient_name: "RXT Opt DT",
+   varient_id:7,model_id: 2 ,brand_id: 8,
+),
+new CarVarient(
+    varient_name: "RXT AMT DT",
+   varient_id:8,model_id: 2 ,brand_id: 8,
+),
+new CarVarient(
+    varient_name: "RXT AMT Optt",
+   varient_id:9,model_id: 2 ,brand_id: 8,
+),
+new CarVarient(
   
- 
+    varient_name: "RXZ",
+   varient_id:10,model_id: 2 ,brand_id: 8,
+),
+new CarVarient(
+    varient_name: "RXT AMT Opt DT",
+   varient_id:11,model_id: 2 ,brand_id: 8,
+),
+new CarVarient(
+    varient_name: "RXZ DT",
+   varient_id:12,model_id: 2 ,brand_id: 8,
+),
+new CarVarient(
+    varient_name: "RXT Turbo",
+   varient_id:13,model_id: 2 ,brand_id: 8,
+),
+new CarVarient(
+    varient_name: "RXT Turbo DT",
+   varient_id:14,model_id: 2 ,brand_id: 8,
+),
+new CarVarient(
+    varient_name: "RXZ AMT",
+   varient_id:15,model_id: 2 ,brand_id: 8,
+),
+new CarVarient(
+    varient_name: "RXZ AMT DT",
+   varient_id:16,model_id: 2 ,brand_id: 8,
+),
+new CarVarient(
+    varient_name: "RXT Turbo CVT",
+   varient_id:17,model_id: 2 ,brand_id: 8,
+),
+new CarVarient(
+    varient_name: "RXZ Turbo",
+   varient_id:18,model_id: 2 ,brand_id: 8,
+),
+new CarVarient(
+    varient_name: "RXT Turbo CVT DT",
+   varient_id:19,model_id: 2 ,brand_id: 8,
+),
+new CarVarient(
+    varient_name: "RXZ Turbo DT",
+   varient_id:20,model_id: 2 ,brand_id: 8,
+),
+new CarVarient(
+    varient_name: "RXZ Turbo CVT",
+   varient_id:21,model_id: 2 ,brand_id: 8,
+),
+new CarVarient(
+    varient_name: "RXZ Turbo CVT DT",
+   varient_id:22,model_id: 2 ,brand_id: 8,
+),
+
+];
+List<CarVarient>triberVarient=[
+   new CarVarient(
+    varient_name: "RXE",
+   varient_id:1,model_id: 3 ,brand_id: 8,
+),
+new CarVarient(
+    varient_name: "RXL",
+   varient_id:2,model_id: 3 ,brand_id: 8,
+),
+new CarVarient(
+    varient_name: "RXL EASY-R AMT",
+   varient_id:3,model_id: 3 ,brand_id: 8,
+),
+new CarVarient(
+    varient_name: "RXT",
+   varient_id:4,model_id: 3 ,brand_id: 8,
+),
+new CarVarient(
+    varient_name: "RXT EASY-R AMT",
+   varient_id:5,model_id: 3 ,brand_id: 8,
+),
+new CarVarient(
+    varient_name: "RXZ",
+   varient_id:6,model_id: 3 ,brand_id: 8,
+),
+new CarVarient(
+    varient_name: "RXZ Dual Tone",
+   varient_id:7,model_id: 3 ,brand_id: 8,
+),
+new CarVarient(
+    varient_name: "RXZ EASY-R AMT",
+   varient_id:8,model_id: 3 ,brand_id: 8,
+),
+new CarVarient(
+    varient_name: "RXZ EASY-R AMT Dual Tone",
+   varient_id:9,model_id: 3 ,brand_id: 8,
+),
+];
+List<CarVarient>DusterVarient=[
+
+new CarVarient(
+   varient_name: "RXS",
+   varient_id:1,model_id: 4 ,brand_id: 8,
+),
+new CarVarient(
+    varient_name: "RXZ",
+   varient_id:2,model_id: 4 ,brand_id: 8,
+),
+new CarVarient(
+    varient_name: "RXE Turbo",
+   varient_id:3,model_id: 4 ,brand_id: 8,
+),
+new CarVarient(
+    varient_name: "RXS Turbo",
+   varient_id:4,model_id: 4 ,brand_id: 8,
+),
+new CarVarient(
+    varient_name: "RXZ Turbo",
+   varient_id:5,model_id: 4 ,brand_id: 8,
+),
+new CarVarient(
+    varient_name: "RXS Turbo CVT",
+   varient_id:6,model_id: 4 ,brand_id: 8,
+),
+new CarVarient(
+    varient_name: "RXZ Turbo CVT",
+   varient_id:7,model_id: 4 ,brand_id: 8,
+),
+
+];
+List<CarVarient>Innovavarient=[
+  new CarVarient(
+   varient_name: "2.0 G (Petrol) 8 Seater",
+   varient_id:1,model_id: 1 ,brand_id: 9,
+),
+new CarVarient(
+    varient_name: "2.5 EV Diesel PS WO AC 8",
+   varient_id:2,model_id: 1 ,brand_id: 9,
+),
+new CarVarient(
+    varient_name: "2.5 EV Diesel PS W/O A/C 8 BSIII",
+   varient_id:3,model_id: 1 ,brand_id: 9,
+),
+new CarVarient(
+    varient_name: "2.5 EV Diesel PS WO AC 7",
+   varient_id:4,model_id: 1 ,brand_id: 9,
+),
+new CarVarient(
+    varient_name: "2.5 EV Diesel PS W/O A/C 7 BSIII",
+   varient_id:5,model_id: 1 ,brand_id: 9,
+),
+new CarVarient(
+    varient_name: "2.5 EV (Diesel) PS 8 Seater",
+   varient_id:6,model_id: 1 ,brand_id: 9,
+),
+new CarVarient(
+    varient_name: "2.5 EV Diesel PS 8 Seater BSIII",
+   varient_id:7,model_id: 1 ,brand_id: 9,
+),
+new CarVarient(
+    varient_name: "2.5 E (Diesel) PS 7 Seater",
+   varient_id:8,model_id: 1 ,brand_id: 9,
+),
+new CarVarient(
+    varient_name: "2.5 EV Diesel PS 7 Seater BSIII",
+   varient_id:9,model_id: 1 ,brand_id: 9,
+),
+new CarVarient(
+    varient_name: "2.0 GX (Petrol) 8 Seater",
+   varient_id:10,model_id: 1 ,brand_id: 9,
+),
+new CarVarient(
+    varient_name: "2.5 LE 2014 Diesel 7 Seater BSIII",
+   varient_id:11,model_id: 1 ,brand_id: 9,
+),
+new CarVarient(
+    varient_name: "2.5 LE 2014 Diesel 8 Seater BSIII",
+   varient_id:12,model_id: 1 ,brand_id: 9,
+),
+new CarVarient(
+    varient_name: "2.5 LE 2014 Diesel 7 Seater",
+   varient_id:13,model_id: 1 ,brand_id: 9,
+),
+new CarVarient(
+    varient_name: "2.5 LE 2014 Diesel 8 Seater",
+   varient_id:14,model_id: 1 ,brand_id: 9,
+),
+new CarVarient(
+    varient_name: "2.5 G (Diesel) 7 Seater BSIII",
+   varient_id:15,model_id: 1 ,brand_id: 9,
+),
+new CarVarient(
+    varient_name: "2.5 G (Diesel) 7 Seater BSIII",
+   varient_id:16,model_id: 1 ,brand_id: 9,
+),
+new CarVarient(
+    varient_name: "2.5 G (Diesel) 7 Seater",
+   varient_id:17,model_id: 1 ,brand_id: 9,
+),
+new CarVarient(
+    varient_name: "2.5 G (Diesel) 8 Seater",
+   varient_id:18,model_id: 1 ,brand_id: 9,
+),
+new CarVarient(
+    varient_name: "2.0 VX (Petrol) 7 Seater",
+   varient_id:19,model_id: 1 ,brand_id: 9,
+),
+new CarVarient(
+    varient_name: "2.0 VX (Petrol) 8 Seater",
+   varient_id:20,model_id: 1 ,brand_id: 9,
+),
+new CarVarient(
+    varient_name: "2.5 GX (Diesel) 7 Seater BSIII",
+   varient_id:21,model_id: 1 ,brand_id: 9,
+),
+new CarVarient(
+    varient_name: "2.5 GX (Diesel) 8 Seater BSIII",
+   varient_id:22,model_id: 1 ,brand_id: 9,
+),
+new CarVarient(
+    varient_name: "2.5 GX (Diesel) 7 Seater",
+   varient_id:23,model_id: 1 ,brand_id: 9,
+),
+new CarVarient(
+    varient_name: "2.5 GX (Diesel) 8 Seater",
+   varient_id:24,model_id: 1 ,brand_id: 9,
+),
+new CarVarient(
+    varient_name: "2.5 Z Diesel 7 Seater BS III",
+   varient_id:25,model_id: 1 ,brand_id: 9,
+),
+new CarVarient(
+    varient_name: "2.5 VX (Diesel) 7 Seater BS III",
+   varient_id:26,model_id: 1 ,brand_id: 9,
+),
+new CarVarient(
+    varient_name: "2.5 Z Diesel 7 Seater",
+   varient_id:26,model_id: 1 ,brand_id: 9,
+),
+new CarVarient(
+    varient_name: "2.5 VX (Diesel) 8 Seater BSIII",
+   varient_id:27,model_id: 1 ,brand_id: 9,
+),
+new CarVarient(
+    varient_name: "2.5 VX (Diesel) 7 Seater",
+   varient_id:28,model_id: 1 ,brand_id: 9,
+),
+new CarVarient(
+    varient_name: "2.5 VX (Diesel) 8 Seater",
+   varient_id:29,model_id: 1 ,brand_id: 9,
+),
+new CarVarient(
+    varient_name: " 2.5 ZX Diesel 7 Seater BSIII",
+   varient_id:30,model_id: 1 ,brand_id: 9,
+),
+new CarVarient(
+    varient_name: " 2.5 ZX Diesel 7 Seater",
+   varient_id:31,model_id: 1 ,brand_id: 9,
+),
+
+
+
+
+]; 
+List<CarVarient>FortunerVarient=[
+
+new CarVarient(
+   varient_name: "4X2",
+   varient_id:1,model_id: 2 ,brand_id: 9,
+),
+new CarVarient(
+    varient_name: "4X2 AT",
+   varient_id:2,model_id: 2 ,brand_id: 9,
+),
+new CarVarient(
+    varient_name: "4X2 Diesel",
+   varient_id:3,model_id: 2 ,brand_id: 9,
+),
+new CarVarient(
+    varient_name: "4X2 Diesel AT",
+   varient_id:4,model_id: 2 ,brand_id: 9,
+),
+new CarVarient(
+    varient_name: "4X4 Diesel",
+   varient_id:5,model_id: 2 ,brand_id: 9,
+),
+new CarVarient(
+    varient_name: "4X4 Diesel AT",
+   varient_id:6,model_id: 2 ,brand_id: 9,
+),
+new CarVarient(
+    varient_name: " Legender",
+   varient_id:7,model_id: 2 ,brand_id: 9,
+),
+new CarVarient(
+    varient_name: " Legender 4x4 AT",
+   varient_id:8,model_id: 2 ,brand_id: 9,
+),
+
+]; 
+List<CarVarient>GlanzaVarient=[
+new CarVarient(
+   varient_name: "G",
+   varient_id:1,model_id: 3 ,brand_id: 9,
+),
+new CarVarient(
+    varient_name: "G Smart Hybrid",
+   varient_id:2,model_id: 3 ,brand_id: 9,
+),
+new CarVarient(
+    varient_name: "V",
+   varient_id:3,model_id: 3 ,brand_id: 9,
+),
+new CarVarient(
+    varient_name: "G CVT",
+   varient_id:4,model_id: 3 ,brand_id: 9,
+),
+new CarVarient(
+    varient_name: "V CVT",
+   varient_id:5,model_id: 3 ,brand_id: 9,
+),
+
+];   
+List<CarVarient>Urban_Cruizer=[
+
+new CarVarient(
+   varient_name: "cruiser Mid",
+   varient_id:1,model_id: 4 ,brand_id: 9,
+),
+new CarVarient(
+    varient_name: "cruiser High",
+   varient_id:2,model_id: 4 ,brand_id: 9,
+),
+new CarVarient(
+    varient_name: "cruiser Mid AT",
+   varient_id:3,model_id: 4 ,brand_id: 9,
+),
+new CarVarient(
+    varient_name: "cruiser Premium",
+   varient_id:4,model_id: 4 ,brand_id: 9,
+),
+new CarVarient(
+    varient_name: "cruiser High AT",
+   varient_id:5,model_id: 4 ,brand_id: 9,
+),
+new CarVarient(
+    varient_name: "cruiser High AT",
+   varient_id:6,model_id: 4 ,brand_id: 9,
+),
+new CarVarient(
+    varient_name: "cruiser Premium AT",
+   varient_id:7,model_id: 4 ,brand_id: 9,
+),
+
+];
+List<CarVarient>CamryVarient=[
+
+new CarVarient(
+   varient_name: "Hybrid 2.5",
+   varient_id:1,model_id: 5 ,brand_id: 9,
+),
+
+]; 
+List<CarVarient>VellFireVarient=[
+
+new CarVarient(
+   varient_name: "Executive Lounge",
+   varient_id:1,model_id: 6 ,brand_id: 9,
+),
+
+];
+List<CarVarient>vernaVarient=[
+
+new CarVarient(
+   varient_name: "E",
+   varient_id:1,model_id: 1 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "S Plus",
+   varient_id:2,model_id: 1 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "SX",
+   varient_id:3,model_id: 1 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "SX IVT",
+   varient_id:4,model_id: 1 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "SX Opt",
+   varient_id:5,model_id: 1 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "SX AT Diesel",
+   varient_id:6,model_id: 1 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "SX IVT Opt",
+   varient_id:7,model_id: 1 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "SX Opt Turbo",
+   varient_id:8,model_id: 1 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "SX Opt AT Diesel",
+   varient_id:9,model_id: 1 ,brand_id: 10,
+),
+
+];
+List<CarVarient>CretaVarient=[
+
+
+new CarVarient(
+   varient_name: "E",
+   varient_id:1,model_id: 2 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "EX",
+   varient_id:2,model_id: 2 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "S",
+   varient_id:3,model_id: 2 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "SX Executive",
+   varient_id:4,model_id: 2 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "SX",
+   varient_id:5,model_id: 2 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "SX IVT",
+   varient_id:6,model_id: 2 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "SX Opt Diesel",
+   varient_id:7,model_id: 2 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "SX Diesel AT",
+   varient_id:8,model_id: 2 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "SX Opt IVT",
+   varient_id:9,model_id: 2 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "SX Turbo Dualtone",
+   varient_id:10,model_id: 2 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "SX Turbo",
+   varient_id:11,model_id: 2 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "SX Opt Diesel AT",
+   varient_id:12,model_id: 2 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "SX Opt Turbo Dualtone",
+   varient_id:13,model_id: 2 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "SX Opt Turbo",
+   varient_id:14,model_id: 2 ,brand_id: 10,
+),
+];
+List<CarVarient>venueVarient=[ 
+
+new CarVarient(
+   varient_name: "E",
+   varient_id:1,model_id: 3 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "S",
+   varient_id:2,model_id: 3 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "S Plus",
+   varient_id:3,model_id: 3 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "S Turbo iMT",
+   varient_id:4,model_id: 3 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: " SX Diesel",
+   varient_id:5,model_id: 3 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "S Turbo DCT",
+   varient_id:6,model_id: 3 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "SX iMT",
+   varient_id:7,model_id: 3 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "SX Turbo",
+   varient_id:8,model_id: 3 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "SX Sport iMT",
+   varient_id:9,model_id: 3 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "SX Diesel Sport",
+   varient_id:10,model_id: 3 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "SX Turbo Executive",
+   varient_id:11,model_id: 3 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "SX Opt iMT",
+   varient_id:12,model_id: 3 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "SX Opt Sport iMT",
+   varient_id:13,model_id: 3 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "SX Opt Diesel",
+   varient_id:14,model_id: 3 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "SX Plus Turbo DCT",
+   varient_id:15,model_id: 3 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "SX Opt Diesel Sport",
+   varient_id:16,model_id: 3 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "SX Plus Sport DCT",
+   varient_id:17,model_id: 3 ,brand_id: 10,
+),
+
+
+];
+List<CarVarient>i10Varient=[
+
+new CarVarient(
+   varient_name: "D lite",
+   varient_id:1,model_id: 4 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "Era",
+   varient_id:2,model_id: 4 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "Era LPG",
+   varient_id:3,model_id: 4 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "Magna LPG",
+   varient_id:4,model_id: 4 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "Era 1.1 iTech SE",
+   varient_id:5,model_id: 4 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "Magna 1.2 Kappa2",
+   varient_id:6,model_id: 4 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "Magna 1.2 iTech SE",
+   varient_id:7,model_id: 4 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "Magna 1.1L",
+   varient_id:8,model_id: 4 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "Sportz 1.2 Kappa2",
+   varient_id:9,model_id: 4 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "Magna 1.1 iTech SE",
+   varient_id:10,model_id: 4 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "Sportz 1.1L",
+   varient_id:11,model_id: 4 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "Asta VTVT",
+   varient_id:12,model_id: 4 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "Sportz Option",
+   varient_id:13,model_id: 4 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "Asta Sunroof AT",
+   varient_id:14,model_id: 4 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "Sportz 1.1L LPG",
+   varient_id:15,model_id: 4 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "Sportz 1.2 Kappa2 AT",
+   varient_id:16,model_id: 4 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "Asta 1.2 Kappa2",
+   varient_id:17,model_id: 4 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "Asta 1.2 Kappa2 AT",
+   varient_id:18,model_id: 4 ,brand_id: 10,
+),
+
+];
+List<CarVarient>i20Varient=[
+
+new CarVarient(
+   varient_name: "Magna",
+   varient_id:1,model_id: 5 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "Sportz",
+   varient_id:2,model_id: 5 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "Sportz DT",
+   varient_id:3,model_id: 5 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "Sportz IVT",
+   varient_id:4,model_id: 5 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "Sportz Turbo iMT",
+   varient_id:5,model_id: 5 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "Asta",
+   varient_id:6,model_id: 5 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "Sportz IVT DT",
+   varient_id:7,model_id: 5 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "Sportz Turbo iMT DT",
+   varient_id:8,model_id: 5 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "Asta DT",
+   varient_id:9,model_id: 5 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "Asta Opt",
+   varient_id:10,model_id: 5 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "Asta Opt DT",
+   varient_id:11,model_id: 5 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "Asta IVT",
+   varient_id:12,model_id: 5 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "Asta Turbo iMT",
+   varient_id:13,model_id: 5 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "Asta IVT DT",
+   varient_id:14,model_id: 5 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "Asta Turbo iMT DT",
+   varient_id:15,model_id: 5 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "Asta Turbo DCT",
+   varient_id:16,model_id: 5 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "Asta Turbo DCT DT",
+   varient_id:17,model_id: 5 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "Asta Opt Turbo DCT",
+   varient_id:18,model_id: 5 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "Asta Opt Turbo DCT DT",
+   varient_id:19,model_id: 5 ,brand_id: 10,
+),
+
+];
+List<CarVarient>SantroVarient=[
+
+ new CarVarient(
+   varient_name: "Era Executive",
+   varient_id:1,model_id: 6 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "Magna",
+   varient_id:2,model_id: 6 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "Sportz",
+   varient_id:3,model_id: 6 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "Magna AMT",
+   varient_id:4,model_id: 6 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "Asta",
+   varient_id:5,model_id: 6 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "Magna CNG",
+   varient_id:6,model_id: 6 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "Sportz AMT",
+   varient_id:7,model_id: 6 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "Sportz CNG",
+   varient_id:8,model_id: 6 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "Asta AMT",
+   varient_id:9,model_id: 6 ,brand_id: 10,
+),
+
+];
+List<CarVarient>AlczarVarient=[
+new CarVarient(
+   varient_name: "Prestige 7-Seater",
+   varient_id:1,model_id: 7 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "Prestige Diesel",
+   varient_id:2,model_id: 7 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "Prestige 7-Seater Diesel AT",
+   varient_id:3,model_id: 7 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "Platinum 7-Seater",
+   varient_id:4,model_id: 7 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "Platinum 7-Seater",
+   varient_id:5,model_id: 7 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "Platinum AT",
+   varient_id:6,model_id: 7 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "Signature 7-Seater AT",
+   varient_id:7,model_id: 7 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: " Signature AT",
+   varient_id:8,model_id: 7 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "Signature Dual Tone AT",
+   varient_id:9,model_id: 7 ,brand_id: 10,
+),
+
+];
+List<CarVarient>AuraVarient=[
+
+new CarVarient(
+varient_name: "E",
+   varient_id:1,model_id: 8 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "S",
+   varient_id:2,model_id: 8 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "S AMT",
+   varient_id:3,model_id: 8 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "SX",
+   varient_id:4,model_id: 8 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "S CNG",
+   varient_id:5,model_id: 8 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "SX Option",
+   varient_id:6,model_id: 8 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "SX Plus AMT",
+   varient_id:7,model_id: 8 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "S AMT Diesel",
+   varient_id:8,model_id: 8 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "SX Plus Turbo",
+   varient_id:9,model_id: 8 ,brand_id: 10,
+),
+
+];
+List<CarVarient>TucsonVarient=[
+
+new CarVarient(
+varient_name: "GL Opt AT",
+   varient_id:1,model_id: 9 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "GLS AT",
+   varient_id:2,model_id: 9 ,brand_id: 10,
+),
+];
+List<CarVarient>XcentVarient=[
+
+new CarVarient(
+varient_name: "Prime T Plus CNG BSIV",
+   varient_id:1,model_id: 10 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "Facelift",
+   varient_id:2,model_id: 10 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "1.2 VTVT E",
+   varient_id:3,model_id: 10 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "1.2 VTVT E Plus",
+   varient_id:4,model_id: 10 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "1.2 VTVT S",
+   varient_id:5,model_id: 10 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "1.2 CRDi E",
+   varient_id:6,model_id: 10 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "1.2 CRDi E Plus",
+   varient_id:7,model_id: 10 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "1.2 VTVT SX",
+   varient_id:8,model_id: 10 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "1.2 VTVT S AT",
+   varient_id:9,model_id: 10 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "1.2 CRDi S",
+   varient_id:10,model_id: 10 ,brand_id: 10,
+),
+
+new CarVarient(
+    varient_name: "1.2 VTVT SX Option",
+   varient_id:11,model_id: 10 ,brand_id: 10,
+),
+
+new CarVarient(
+    varient_name: "1.2 CRDi SX",
+   varient_id:12,model_id: 10 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "Xcent 1.2 CRDi SX Option",
+   varient_id:13,model_id: 10 ,brand_id: 10,
+),
+
+];
+List<CarVarient>ElantraVarient=[
+
+new CarVarient(
+varient_name: "VTVT SX",
+   varient_id:1,model_id: 11 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "CRDi SX",
+   varient_id:2,model_id: 11 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "VTVT SX AT",
+   varient_id:3,model_id: 11 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "VTVT SX Option AT",
+   varient_id:4,model_id: 11 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "CRDi SX Option AT",
+   varient_id:5,model_id: 11 ,brand_id: 10,
+),
+
+];
+List<CarVarient>konaVarient=[
+
+new CarVarient(
+    varient_name: "Premium",
+   varient_id:1,model_id: 12 ,brand_id: 10,
+),
+new CarVarient(
+    varient_name: "Premium Dual Tone",
+   varient_id:2,model_id: 12 ,brand_id: 10,
+),
+
+
+];
