@@ -3014,5 +3014,133 @@ new CarVarient(
    varient_id:2,model_id: 12 ,brand_id: 10,
 ),
 
+];
+List<CarVarient>Q2Varient=[
+
+new CarVarient(
+    varient_name: "Standard",
+   varient_id:1,model_id: 1 ,brand_id: 11,
+),
+new CarVarient(
+    varient_name: "Standard With Sunroof",
+   varient_id:2,model_id: 1 ,brand_id: 11,
+),
+new CarVarient(
+    varient_name: "Premium",
+   varient_id:3,model_id: 1 ,brand_id: 11,
+),
+new CarVarient(
+    varient_name: "Premium Plus I",
+   varient_id: 4,model_id: 1 ,brand_id: 11,
+),
+
+new CarVarient(
+    varient_name: "Premium Plus II",
+   varient_id:5,model_id: 1 ,brand_id: 11,
+),
+new CarVarient(
+    varient_name: "Technology",
+   varient_id:6,model_id: 1 ,brand_id: 11,
+),
+
+];
+List<CarVarient>Q5varient=[
+
+new CarVarient(
+    varient_name: "Premium Plus",
+   varient_id: 1,model_id: 2 ,brand_id: 11,
+),
+new CarVarient(
+    varient_name: "Technology",
+   varient_id:2,model_id: 2 ,brand_id: 11,
+),
+
+];
+List<CarVarient>A4Varient=[
+
+new CarVarient(
+    varient_name: "Premium Plus",
+   varient_id: 1,model_id: 3 ,brand_id: 11,
+),
+new CarVarient(
+    varient_name: "Technology",
+   varient_id:2,model_id: 3 ,brand_id: 11,
+),
+new CarVarient(
+    varient_name: "Premium",
+   varient_id:3,model_id: 3 ,brand_id: 11,
+),
+
+];
+List<CarVarient>A6Varient=[
+
+new CarVarient(
+    varient_name: "45 TFSI Premium Plus",
+   varient_id: 1,model_id: 4 ,brand_id: 11,
+),
+new CarVarient(
+    varient_name: "45 TFSI Technology",
+   varient_id:2,model_id: 4 ,brand_id: 11,
+),
+
+];
+List<CarVarient>A8Varient=[
+
+new CarVarient(
+    varient_name: "55 TFSI",
+   varient_id: 1,model_id: 5 ,brand_id: 11,
+),
+
+];
+List<CarVarient>RS7Varient=[
+
+new CarVarient(
+    varient_name: "4.0 TFSI",
+   varient_id: 1,model_id: 6 ,brand_id: 11,
+),
+
+];
+List<CarVarient>S5Varient=[
+new CarVarient(
+    varient_name: "3.0 TFSIq Tiptronic",
+   varient_id: 1,model_id: 7 ,brand_id: 11,
+),];
+List<CarVarient>RS5Varient=[
+new CarVarient(
+    varient_name: "Sportback",
+   varient_id: 1,model_id: 8 ,brand_id: 11,
+),
+
+];
+List<CarVarient>e_tronVarient=[
+
+new CarVarient(
+    varient_name: "50",
+   varient_id: 1,model_id: 9 ,brand_id: 11,
+),
+new CarVarient(
+    varient_name: "55",
+   varient_id: 2,model_id: 9 ,brand_id: 11,
+),
+new CarVarient(
+    varient_name: "55 Sportback",
+   varient_id: 3,model_id: 9 ,brand_id: 11,
+),
+
+];
+List<CarVarient>X1Varient=[
+
+new CarVarient(
+    varient_name: "50",
+   varient_id: 1,model_id: 1 ,brand_id: 12,
+),
+new CarVarient(
+    varient_name: "55",
+   varient_id: 2,model_id: 1 ,brand_id: 12,
+),
+new CarVarient(
+    varient_name: "55 Sportback",
+   varient_id: 3,model_id: 1 ,brand_id: 12,
+),
 
 ];
